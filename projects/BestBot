@@ -13,9 +13,9 @@ labels:
 summary: A program created to buy any in demand item from the BestBuy website.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image large" src="https://i.pcmag.com/imagery/articles/06YHBxnn2kbrapAPhI5F2om-6.png">
-</div>
+
+ <img class="ui image large" src="https://i.pcmag.com/imagery/articles/06YHBxnn2kbrapAPhI5F2om-6.png">
+
 
 The idea of this bot was to scrape the Bestbuy website for a GPU (Graphics Processing Unit) and when the bot could find a GPU within a reasonable price it will automatically check-out. Bestbuy regularly sells and restocks GPU's for MSRP (Manufacturer suggested retail price) which is why I specifically targeted the Bestbuy's website when creating this bot. The reason this bot was created was to compete with other self-checkout bots on the market that purchase these GPU's at a faster rate than most consumers can. 
 
