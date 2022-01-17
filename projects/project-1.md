@@ -10,7 +10,7 @@ labels:
   - Javascript
   - Puppeteer
   - Web scraping
-summary: A program created to buy in demand items from the BestBuy website.
+summary: A program created to buy any in demand item from the BestBuy website.
 ---
 
 <div class="ui small rounded images">
