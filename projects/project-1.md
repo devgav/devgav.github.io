@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: "https://media.wired.com/photos/5b6df22751297c21002b4536/191:100/w_2400,h_1256,c_limit/HackerBot.jpg"
 title: BestBot
-permalink: projects/micromouse
+permalink: projects/BestBot
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-22
 labels:
