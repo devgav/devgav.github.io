@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: BestBot
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-08-22
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Javascript
+  - Puppeteer
+  - Web scraping
+summary: A program created to buy in demand items from the BestBuy website.
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +20,17 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The idea of this bot was to scrape the Bestbuy website for a GPU (Graphics Processing Unit) and when the bot could find a GPU within a reasonable price it will automatically check-out. Bestbuy regularly sells and restocks GPU's for MSRP (Manufacturer suggested retail price) which is why I specifically targeted the Bestbuy's website when creating this bot. The reason this bot was created was to compete with other self-checkout bots on the market that purchase these GPU's at a faster rate than most consumers can. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+During the creation of this bot I learned alot about working with a high-level API, primarily reading documentation. This was also the first time that I had used javascript in a real project and also learned about asyncs and awaits. There were lot's of complications while creating this project, such as BestBuy changing it's CSS classes to prevent bot's like the one that I made. To get around this issue I noticed a pattern with the CSS classes changing mainly that only the numbers at the end of the class changed. I used regex to check for these number's. While creating this project I also had to think of the most efficient ways to get to the Bestbuy item page to my checkout cart. 
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+Example of css class changing:
+```css
+  class = some-class-12345
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more here [Github](https://github.com/devgav/BestBot).
+To read about the GPU price hikes/shortage [GPU shortage](https://www.tomshardware.com/news/gpu-pricing-index).
 
 
 
