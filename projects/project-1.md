@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: "https://media.wired.com/photos/5b6df22751297c21002b4536/191:100/w_2400,h_1256,c_limit/HackerBot.jpg"
+image: "image/bb_kk.png"
 title: BestBot
 permalink: projects/BestBot
 # All dates must be YYYY-MM-DD format!
-date: 2020-08-22
+date: 2021-10-22
 labels:
   - Javascript
   - Puppeteer
