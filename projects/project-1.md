@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "image/bb_kk.png"
+image: "images/bb_kk.png"
 title: BestBot
 permalink: projects/BestBot
 # All dates must be YYYY-MM-DD format!
