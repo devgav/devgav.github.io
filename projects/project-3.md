@@ -2,60 +2,25 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: UHGroupings
+permalink: projects/UHGroupings
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-07-20
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Web Developement
+  - Javascript 
+  - Java
+  - Agile Project Management
+  - Git/Github
+summary: UH Groupings allows you to create and manage groupings.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+UHGroupings is a project that I joined in 2021. The website allows you to create, organize, and manage a group of people associated with the University of Hawaii. Members can be grouped by their emails, roles, lists that they belong to, and much more. A owner of a grouping can allow users to either be included or excluded from a grouping based on what 
 
-To give you a flavor of the game, here is an excerpt from one run:
+<h1>Pieces to the puzzle</h1>
+UH Groupings uses AngularJS for the frontend and the Springboot framework along with Maven to build the project. To create the API our team uses Java along wiht the Grouper API. The project also uses Git/Github for version control. To manage a large team we meet once a week and discuss thing's that we are currently working on or ask for help from other members of the team.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+<h1>A Developing Developer</h1>
+This is not just the first developer job that I have had, but also the first job that I have ever had in general. Initially, I was extremely overwhelmed because at the time I had never worked on a project this large before. This was also the first time that I was not working alone on projects like I had in my previous computer science classes ICS 111 (Intro to Computer Science I) and ICS 211 (Intro to Computer Science II). During my time at this project I learned how to effectively communicate with a team, work in a agile envrionment, learn javascript, as well as learning what kind of questions to ask at our weekly team meetings in order to get help for issues that I am stuck on. So far, I have contributed to the project by increasing our code coverage for testing, implement new features, fix various bugs throughout the project, and cleaning up our code base. This job has allowed me to deepen my knowledge of web development and gain real insight as to what working on a project with a team looks and feels like. 
