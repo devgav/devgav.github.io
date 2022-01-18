@@ -21,8 +21,7 @@ The idea of this bot was to scrape the Bestbuy website for a GPU (Graphics Proce
 
 During the creation of this bot I learned alot about working with a high-level API, primarily reading documentation. This was also the first time that I had used javascript in a real project and also learned about asyncs and awaits. There were lot's of complications while creating this project, such as BestBuy changing it's CSS classes to prevent bot's like the one that I made. To get around this issue I noticed a pattern with the CSS classes changing mainly that only the numbers at the end of the class changed. I used regex to check for these number's. While creating this project I also had to think of the most efficient ways to get to the Bestbuy item page to my checkout cart. 
 
-You can learn more here [Github](https://github.com/devgav/BestBot).
-To read about the GPU price hikes/shortage [GPU shortage](https://www.tomshardware.com/news/gpu-pricing-index).
+Source: <a href="https://github.com/devgav/BestBot"><i class="large github icon"></i>devgav/BestBot</a>
 
 
 
