@@ -15,8 +15,6 @@ labels:
 summary: UH Groupings allows you to create and manage groupings.
 ---
 
-<img class="ui image large" src=".../image/uh-groupings-logo-larg-2x.png">
-
 UHGroupings is a project that I joined in 2021. The website allows you to create, organize, and manage a group of people associated with the University of Hawaii. Members can be grouped by their emails, roles, lists that they belong to, and much more. A owner of a grouping can allow users to either be included or excluded from a grouping based on what 
 
 <h1>Pieces to the puzzle</h1>
