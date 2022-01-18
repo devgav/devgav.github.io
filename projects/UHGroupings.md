@@ -22,3 +22,7 @@ UH Groupings uses AngularJS for the frontend and the Springboot framework along 
 
 <h1>A Developing Developer</h1>
 This is not just the first developer job that I have had, but also the first job that I have ever had in general. Initially, I was extremely overwhelmed because at the time I had never worked on a project this large before. This was also the first time that I was not working alone on projects like I had in my previous computer science classes ICS 111 (Intro to Computer Science I) and ICS 211 (Intro to Computer Science II). During my time at this project I learned how to effectively communicate with a team, work in a agile envrionment, learn javascript, as well as learning what kind of questions to ask at our weekly team meetings in order to get help for issues that I am stuck on. So far, I have contributed to the project by increasing our code coverage for testing, implement new features, fix various bugs throughout the project, and cleaning up our code base. This job has allowed me to deepen my knowledge of web development and gain real insight as to what working on a project with a team looks and feels like. 
+
+Source (UI): <a href="https://github.com/devgav/uh-groupings-ui"><i class="large github icon"></i>devgav/uh-groupings-ui</a>
+<br> 
+Source (API): <a href="https://github.com/devgav/uh-groupings-api"><i class="large github icon"></i>devgav/uh-groupings-api</a>
