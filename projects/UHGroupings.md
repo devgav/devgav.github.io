@@ -1,4 +1,3 @@
----
 layout: project
 type: project
 image: images/fish (2).jpg
