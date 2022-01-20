@@ -1,5 +1,4 @@
 ---
-<img class="ui image" src="../images/uh-groupings-logo-2x.png">
 layout: project
 type: project
 image: images/fish (2).jpg
@@ -15,10 +14,12 @@ labels:
   - Git/Github
 summary: UH Groupings allows you to create and manage groupings.
 ---
+<img class="ui image" src="../images/uh-groupings-logo-2x.png">
 
+## What's a UH Grouping?
 UHGroupings is a project that I joined in 2021. The website allows you to create, organize, and manage a group of people associated with the University of Hawaii. Members can be grouped by their emails, roles, lists that they belong to, and much more. A owner of a grouping can allow users to either be included or excluded from a grouping based on their relevance to the group and members can opt out of groups if they are no longer want to be affiliated with the group.
 
-<h1>Pieces to the puzzle</h1>
+<h1>What's in a Grouping?</h1>
 UH Groupings uses AngularJS along with Twitters Bootstrap to design the frontend. We use the Springboot framework along with Maven to build the project. To create the API our team uses Java along with the Grouper API. The project also uses Git/Github for version control. To manage a large team we meet once a week and discuss thing's that we are currently working on or ask for help from other members of the team.
 
 <h1>A Developing Developer</h1>
