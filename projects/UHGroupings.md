@@ -1,6 +1,6 @@
 layout: project
 type: project
-image: images/fish (2).jpg
+image: images/fish (3).jpg
 title: UHGroupings
 permalink: projects/UHGroupings
 # All dates must be YYYY-MM-DD format!
