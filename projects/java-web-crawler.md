@@ -5,7 +5,7 @@ image: images/webcrawler_2.jpg
 title: Java web crawler
 permalink: projects/java-web-crawler
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-04-15
 labels:
   - Java
   - DFS
