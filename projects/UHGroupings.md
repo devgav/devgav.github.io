@@ -12,7 +12,7 @@ labels:
   - Java
   - Agile Project Management
   - Git/Github
-summary: UH Groupings allows you to create and manage groupings
+summary: UH Groupings allows you to create and manage groupings.
 ---
 <img class="ui image" src="../images/uh-groupings-logo-2x.png">
 
