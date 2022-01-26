@@ -18,6 +18,7 @@ how to fix the problem you are having. Although, with this vast knowledge may al
 “wrong” way. But, you shouldn't be afraid of asking questions and asking questions the right way will undoubtedly save you time 
 by having your question responded to quickly and with quality answers.
 
+## Questioning your questions
 Good questions come in all lengths and sizes so it can be difficult to know how to ask yours. 
 Thankfully we have Eric Steven Raymond’s article “How to ask questions the smart way”, 
 which is all about how to ask “good” questions on the internet, so you will never have to feel 
@@ -47,6 +48,7 @@ This question is a man who wants to resolve his Tomcat error that he is getting 
 us information of the IDE and version he is using along with the stacktrace and what he has tried he has not provided us any details with his pom.xml 
 file so other developers are having trouble trying to help him. This leads to answers like the one posted to not get very many responses.
 
+## Conclusion
 Asking questions on the internet can sometimes feel like a daunting task for some. After all, no one enjoys being called out or 
 negatively criticized for asking a question. Knowing how to effectively communicate with fellow developers will drastically help in the 
 quality of answers that you receive. This is just one of the many skills that students and developers have to learn in order to become 
