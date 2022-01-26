@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Suggestion for questions
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-17
+date: 2022-01-25
 labels:
   - Software Engineering
   - Learning
