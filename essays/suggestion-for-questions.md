@@ -21,10 +21,12 @@ Asking your question is pretty simple. However, you should keep some DO NOTS in 
 ## The smart way
 We have talked a lot about how to ask a good question, but let’s look at what a good question looks like. The question is about a developer who is getting an error trying to get his maven plugins to work. He links what he has tried and looked at with his pom.xml file along with the IDE and version he is using and a snippet of the error he is getting. To top it off, he has a well-worded header that explicitly states what he needs help solving. This question has not violated any of our do nots and in return he has gotten high quality answers from multiple developers.
 <br>
+<br>
 You can learn more about the issue <a href="https://stackoverflow.com/questions/6352208/how-to-solve-plugin-execution-not-covered-by-lifecycle-configuration-for-sprin" target="_blank">here</a>.
 
 ## The not so smart way 
 Now let’s look at a bad question. This question has violated our DO NOTS and has even gone under community scrutiny in the form of dislikes. This question is from a user who wants to resolve an error that he is getting from trying to start Maven. Although we can see that he has provided us with information about the IDE and version he is using, along with the stacktrace (after being asked by a developer) and what he has tried, he has not provided us with any details about his pom.xml file, so other developers are having trouble trying to help him. In addition, we can see that their header is just them saying that they are getting a Tomcat error, which does not provide us with any information about the problem he is facing. This leads to answers like the one posted not getting very many responses and the quality of the response does not really help the original poster.
+<br>
 <br>
 You can learn more about the issue <a href="https://stackoverflow.com/questions/6352208/how-to-solve-plugin-execution-not-covered-by-lifecycle-configuration-for-sprin" target="_blank">here</a>.
 
