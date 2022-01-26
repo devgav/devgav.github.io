@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Suggestion for questions that'll lead you in the right direction
+title: Suggestion for questions
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-25
 labels:
