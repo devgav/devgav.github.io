@@ -28,7 +28,7 @@ You can learn more about the issue <a href="https://stackoverflow.com/questions/
 Now let’s look at a bad question. This question has violated our DO NOTS and has even gone under community scrutiny in the form of dislikes. This question is from a user who wants to resolve an error that he is getting from trying to start Maven. Although we can see that he has provided us with information about the IDE and version he is using, along with the stacktrace (after being asked by a developer) and what he has tried, he has not provided us with any details about his pom.xml file, so other developers are having trouble trying to help him. In addition, we can see that their header is just them saying that they are getting a Tomcat error, which does not provide us with any information about the problem he is facing. This leads to answers like the one posted not getting very many responses and the quality of the response does not really help the original poster.
 <br>
 <br>
-You can learn more about the issue <a href="https://stackoverflow.com/questions/6352208/how-to-solve-plugin-execution-not-covered-by-lifecycle-configuration-for-sprin" target="_blank">here</a>.
+You can learn more about the issue <a href="https://stackoverflow.com/questions/48094438/im-getting-this-tomcat-error">here</a>.
 
 ## Conclusion
 Asking questions on the internet can sometimes feel like a daunting task for some. After all, no one enjoys being called out or 
