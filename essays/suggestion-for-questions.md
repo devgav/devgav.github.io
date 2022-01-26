@@ -36,12 +36,14 @@ and vice-versa, do not cross-post, and do not personally email strangers to get 
 Also always remember to title your question with a meaningful title, it’s typically the first thing that most people responding to your question 
 will look at so it’s important it does not contain any unnecessary information that may lead to other developers scrolling past your question.
 
+## A good question
 https://stackoverflow.com/questions/6352208/how-to-solve-plugin-execution-not-covered-by-lifecycle-configuration-for-sprin
 We have talked a lot about how to ask a good question but let’s look at what a good question looks like. The question is about 
 a developer who is getting an error trying to get his maven plugins to work. He links what he has tried and looked at and his pom.xml 
 file along with the IDE and version he is using and a snippet of the error he is getting. To top it off he has a well worded header 
 that explicitly states what he needs help solving. This question is beautiful in every way and has not violated any of our DO NOTS. 
 
+## A bad question
 https://stackoverflow.com/questions/48094438/im-getting-this-tomcat-error
 Now, let’s look at a bad question. This question has violated our DO NOTS and has even gone under community scrutiny in the form of dislikes. 
 This question is a man who wants to resolve his Tomcat error that he is getting from trying to start maven. Although, we can see that he has provided 
