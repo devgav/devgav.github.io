@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Screenshot (216).png
+image: images/Screenshot (218).png
 title: UHGroupings
 permalink: projects/UHGroupings
 # All dates must be YYYY-MM-DD format!
