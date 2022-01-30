@@ -104,9 +104,23 @@
       "summary": "",
       "highlights": [
         "Develop a web application using modern tools and frameworks such as Java, AngularJS, Maven, Springboot, and SCSS",
-        "Work in a agile project management environemnt and collaborate with senior developers during weekly meeting code reviews", 
+        "Work in a agile project management environment and collaborate with senior developers during weekly meeting code reviews",
         "Document project standards to ensure project standards and efficiently aid/mentor new developers"
       ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "UH Manoa Summer First-Year Merit Scholarship",
+      "data": "2020-2020",
+      "awarder": "University of Hawaii At Manoa",
+      "summary": "Scholarships awarded to exceptional students who have demonstrated a commitment to finishing their degree within four years",
+    },
+    {
+      "title": "Dean's List",
+      "data": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Award given to students who meet a minimum GPA of 3.5+"
     }
   ],
   "references": [
@@ -114,5 +128,5 @@
       "name": "Available upon request",
       "reference": ""
     }
-  ],
+  ]
 }
