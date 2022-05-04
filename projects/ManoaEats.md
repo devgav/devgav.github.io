@@ -16,13 +16,13 @@ labels:
 summary: A web application that provides students a better dining experience around the UH Manoa campus.
 ---
 
-##Overview
+## Overview
 Manoa Eats is a web application that allows anyone to access information about different eateries on the University of Hawaii of Manoa campus. 
 Manoa Eats seeks to provide a clean and simple interface to show users which restaurants are currently open around them. The app also randomly pairs
 indecisive individuals to find a new restaurant that matches their specific diets. The app also allows vendors to create and manage a profile of their restaurants. 
 The application also includes in depth UI testing to make sure that hungry students will always have access to a collection of restaurants around the campus.
 
-##Contributions
+## Contributions
 Sign in/Sign up Page:
 Implemented a way for users to sign up as either a vendor, or a user
 <br/>
@@ -86,7 +86,7 @@ Design:
 I contributed to the initial mockups of the signin/signup page. I also contributed to adding icons throughout our project which significantly improved 
 the look of our application, allowing users to quickly associate icons with corresponding text.
 
-##I am the impostor
+## I am the impostor
 In high school I was on the paddling team, but I never felt like I belonged on the team, I wasn't some macho 6"+ Hawaiian guy or some buff football player, in fact I was the 
 opposite, I was a scrawny, unathletic kid who couldn't swim and never touched a paddle before! So I thought to myself there was no hope I was even going to make it onto the starting crew, 
 but after tryouts I found, so it was to my surprise when I learned I made the starting crew. On my first practice in the water my coach pulled me aside 
@@ -99,7 +99,7 @@ programs that would often time break. To compensate for this I did exactly what 
 worked on as many tasks as I could and tried to work on every single issue. For this project unfortunately I did not have someone to pull me over and tell me what I needed to hear. However, 
 it showed me that I can call myself a software engineer throughout this project I proved to myself throughout implementing countless features and pages that I am capable of making an amazing website and this project has definitely allowed me to realize that 
 I want to become a software engineer and that I am cut out for this field.
-##Conclusions
+## Conclusions
 This was my first time working on a large project from start to finish. I learned a lot about the type of person that I am, and I even learned 
 more about the type of people that I enjoy working with. I think the hardest task in terms of programming was trying to get the menus to show up on the vendor page
 since vendors need to see their own menu, but the menu database needs to be able to be accessed without an owner. To get around this I created a special link which uses 
