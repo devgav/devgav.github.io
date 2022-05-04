@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "images/shopping_bot (3).jpg"
+image: "images/Manoa-Eats-Logo.png"
 title: Manoa Eats
 permalink: projects/ManoaEats
 # All dates must be YYYY-MM-DD format!
