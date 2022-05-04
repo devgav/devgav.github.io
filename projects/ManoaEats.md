@@ -112,6 +112,8 @@ large projects.
 
 
 
-You can learn more about the project at our github page found here => <a href="https://github.com/manoa-eats/manoa-eats"><i class="large github icon"></i>devgav/manoa-eats</a>
+See the source code for our project: <a href="https://github.com/manoa-eats/manoa-eats"><i class="large github icon"></i>devgav/manoa-eats</a>
+<br/>
 or 
-Check out our github.io page here => <a href="https://manoa-eats.github.io/"><i class="large github icon"></i>manoa-eats.github.io</a>
+<br/>
+Checkout our github.io page to learn more about the project: <a href="https://manoa-eats.github.io/"><i class="large github icon"></i>manoa-eats.github.io</a>
