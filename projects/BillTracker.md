@@ -28,7 +28,7 @@ weeks of the semester was figuring out what the DOE really wanted us to do and t
 communication with the DOE employees and our professor was being exchanged in order to get the core idea of the application. After a 
 few weeks of discussing with the DOE employees and our professor our team concluded that what the DOE wanted was not necessarily a bill tracker 
 that would track how far a bill is along the tiring process of a bill going into law, they wanted a way to track the process of a testimony that was being written internally by the DOE staff. 
-Maybe a more apt name would have been testimony manager?.
+Maybe a more apt name would have been testimony manager?
 
 This was definitely a valuable skill to have as a software engineer. Although it made the initial process of creating our application take much
 longer than it needed to I like to take a more positive learning experience from this. Sometimes you and your client and not on the same page,
@@ -38,9 +38,9 @@ The last thing I wanted was to build a full-fledged application that did not mat
 ## As small as managing can get
 
 I think that one of the most difficult things for me this semester was learning how to manage a team. Learning to adapt to the current state of the project every
-milestone was something that was something that I had never thought I would be doing. I tried to guide our team by delegating tasks that they would succeed in given their 
+milestone was something that I had never thought I would be doing. I tried to guide our team by delegating tasks that they would succeed in given their 
 skills and interest, and I also managed them by having meetings every tuesday and thursday where we discussed how everyone was doing on their tasks. In
-addition, I was creating tasks for our team and making sure that the project that we were creating was in line with our agreed upon vision with the DOE. 
+addition, I would create tasks for our team and meet every 4 weeks with our customer to discuss any changes to our current project. 
 
 ## Everything is going to be fine.
 
@@ -54,7 +54,7 @@ in a non filtered state. Putting my googlefu to the test I was able to find the 
 data whenever the state of the users selected data would change. This allowed for my app to quickly filter for bills based on a users filter. This filter component was
 used throughout our application and was easily one of the best time commitments for our project.
 
-In addition to creating the filter component another significant task was creating the workflow from beginning of the secretary to finally sending it back to the secretary
+Another task I was proud of was creating the workflow from beginning of it reaching the secretary to finally sending it back to the secretary
 for review by the final approver. This was a difficult task as it really put my business as well as my technical logic to the test. I needed to fully understand how the workflow
 and approval process is conducted. Furthermore, I needed to understand how to design the page and design the database to go along with the application. I wanted a table which
 approvers, writers, and secretary's could easily manage the tasks assigned to them. I also needed approvers to be able to comment on a writers draft as well as to keep track of
