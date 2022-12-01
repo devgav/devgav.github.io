@@ -1,8 +1,7 @@
 ---
-layout: project
-type: project
-image: "images/doe-tracker.png"
-title: Bill Tracker
+layout: essay
+type: essay
+title: The beginning of the end, sort of
 # All dates must be YYYY-MM-DD format!
 date: 2022-11-30
 labels:
